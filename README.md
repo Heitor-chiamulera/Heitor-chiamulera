@@ -1,16 +1,44 @@
-### Hi there 👋
+<div>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heitor-chiamulera&show_icons=true&theme=react&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heitor-chiamulera&layout=compact&theme=react&hide_border=true"/>
+  <br>
+</div>
 
-<!--
-**Heitor-chiamulera/Heitor-chiamulera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Heitor-chiamulera-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Heitor-chiamulera-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heitor-chiamulera-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Heitor-chiamulera-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Here are some ideas to get you started:
+</div>
+  
+  ##
+ 
+<div> 
+  <!--<a href="https://twitter.com/dabdebbie_" target="_blank"><img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
+  <a href="https://instagram.com/heitor_u_c(https://www.instagram.com/heitor_u_c/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                                                                                                         
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
